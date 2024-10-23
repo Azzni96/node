@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Example for the course",
   "mgit ain": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
